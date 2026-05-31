@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterponnect",
+        "uuid": 15028992,
+        "checksum": "hspktp"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
